@@ -15,15 +15,10 @@ As disciplinas fazem parte dos curso técnicos de nível médio em Informática,
 
 ## Subprojetos e respectivos grupos de trabalho
 1. Alimentação Escolar
-   - **"Cantina Legal"**
-     - Turma: ProSub III - 2023.
-     - Grupo: Edwin, Henrique, Renato, Sandra, Uilton.
-     - Proposta: Um sistema digital para gerenciamento dos insumos necessários para o preparo da merenda escolar e disponibilização do cardápio semanal do colégio. 
-2. Biblioteca Escolar
-	 - **"Empresta Aí"**
-	 	 - Turma: ProSub III - 2023.
-		 - Grupo: Anderson Moreira de Queiroz, Erika Luiza Silva Souza, Marcos Victor da Gomes, Paulo Roberto Gomes de Oliveira, Vitor de Jesus dos Santos.
-		 - Proposta: Um sistema para a organização e registro dos livros e empréstimos do Colégio Estadual Góes Calmon.
+   - **"Cantina Legal"**: Um sistema para gerenciamento de insumos alimentícios para o preparo da merenda escolar e disponibilização do cardápio semanal da cantina do colégio.<br>Edwin, Henrique, Renato, Sandra, Uilton - ProSub III - 2023.1.
+     
+2. Biblioteca Escolar 
+	 - **"Empresta Aí"**: Um sistema para organização e registro dos livros e empréstimos da biblioteca escolar do Colégio Estadual Góes Calmon.<br>Anderson Queiroz, Erika Souza, Marcos Gomes, Paulo Oliveira, Vitor Santos - ProSub III - 2023.1.
      
 ## Glossário
 
