@@ -22,15 +22,21 @@ As disciplinas fazem parte dos curso técnicos de nível médio em Informática,
 
 ## Subprojetos e respectivos grupos de trabalho
 1. Alimentação Escolar
-   - **"Cantina Legal"** [:link:](https://github.com/francojoao/goes-online/tree/cantina-legal-mod): <br>
-   Um sistema para gerenciamento de insumos alimentícios para o preparo da merenda escolar e disponibilização do cardápio semanal da cantina do colégio. <br>
-   Edwin, Henrique, Renato, Sandra, Uilton - ProSub III - 2023.1.
-     
+   - [:link:](https://github.com/francojoao/goes-online/tree/cantina-legal-mod) **"Cantina Legal"**: <br>
+   :memo: Um sistema para gerenciamento de insumos alimentícios para o preparo da merenda escolar e disponibilização do cardápio semanal da cantina do colégio. <br>
+   :busts_in_silhouette: Edwin, Henrique, Renato, Sandra, Uilton - ProSub III - 2023.1.     
 2. Biblioteca Escolar 
-   - **"Empresta Aí"** [:link:](): <br>
-   Um sistema para organização e registro dos livros e empréstimos da biblioteca escolar do Colégio Estadual Góes Calmon.<br>
-   Anderson Queiroz, Erika Souza, Marcos Gomes, Paulo Oliveira, Vitor Santos - ProSub III - 2023.1.
-     
+   - [:link:]() **"Empresta Aí"**: <br>
+   :memo: Um sistema para organização e registro dos livros e empréstimos da biblioteca escolar do Colégio Estadual Góes Calmon.<br>
+   :busts_in_silhouette: Anderson Queiroz, Erika Souza, Marcos Gomes, Paulo Oliveira, Vitor Santos - ProSub III - 2023.1.   
+   - [:link:]() **Bibliogoes**: <br>
+   :memo: Um sistema digital para gerenciamento dos empréstimos de livros do acervo.<br>
+   :busts_in_silhouette: Samuel Marques, João Pedro, Daiana Pinto e Raissa Soares - 3º ano de Redes de Computadores - 2023.    
+3. Secretaria Escolar:
+   - [:link:]() **Secretaria**: <br>
+   :memo: <br>
+   :busts_in_silhouette: Bianca Sousa, Debora Dos Anjos, Ellen freitas, Vanessa Nascimento - 3º ano de Redes de Computadores - 2023.
+   
 ## Glossário
 
 > "um lugar que define todos os termos e vocabulários específicos usados em um projeto". <br>- *The Pragmatic Programmer*, de David Thomas e Andrew Hunt.
