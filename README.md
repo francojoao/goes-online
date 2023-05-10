@@ -26,40 +26,45 @@ As disciplinas fazem parte dos curso técnicos de nível médio em Informática,
 ## Teams
 
 1. **Alimentação Escolar**
-   - [:link:](https://github.com/francojoao/goes-online/tree/cantina-legal-mod) **"Cantina Legal"**: <br>
+   * [:link:](https://github.com/francojoao/goes-online/tree/cantina-legal-mod) **"Cantina Legal"**: <br>
       :memo: Um sistema para gerenciamento de insumos alimentícios para o preparo da merenda escolar e disponibilização do cardápio semanal da cantina do colégio. <br>
-      :busts_in_silhouette: Edwin, Henrique, Renato, Sandra, Uilton - ProSub III - 2023.1.      
+      :busts_in_silhouette: Edwin, Henrique, Renato, Sandra, Uilton - ProSub III - 2023.1. 
+   * [:link:]() **"Fila da Merenda"**: <br>
+      :memo: Aplicação web para organização da fila para distribuição da alimentação escolar.
+      :busts_in_silhouette: Cristian Bahia, Edvaldo Junior, Wandersson araujo, Iago Victor.
+
 2. **Biblioteca Escolar**
-   - [:link:]() **"Empresta Aí"**: <br>
+   * [:link:]() **"Empresta Aí"**: <br>
       :memo: Um sistema para organização e registro dos livros e empréstimos da biblioteca escolar do Colégio Estadual Góes Calmon.<br>
-      :busts_in_silhouette: Anderson Queiroz, Erika Souza, Marcos Gomes, Paulo Oliveira, Vitor Santos - ProSub III - 2023.1.   
-   - [:link:]() **Bibliogoes**: <br>
+      :busts_in_silhouette: Anderson Queiroz, Erika Souza, Marcos Gomes, Paulo Oliveira, Vitor Santos - ProSub III - 2023.1.
+   * [:link:]() **Bibliogoes**: <br>
       :memo: Um sistema digital para gerenciamento dos empréstimos de livros do acervo.<br>
-      :busts_in_silhouette: Samuel Marques, João Pedro, Daiana Pinto e Raissa Soares - 3º ano de Redes de Computadores - 2023.       
+      :busts_in_silhouette: Samuel Marques, João Pedro, Daiana Pinto e Raissa Soares - 3º ano de Redes de Computadores - 2023.
+
 3. **Acompanhamento Pedagógico:**
-   - [:link:]() **Diário de Classe - Percurso Pedagógico das Aulas**: <br>
+   * [:link:]() **Diário de Classe - Percurso Pedagógico das Aulas**: <br>
       :memo: Um sistema para registro e controle das aulas e do histórico de comportamento de cada estudante. <br>
       :busts_in_silhouette: .
-   - [:link:]() **Acompanhamento de Avaliações**: <br>
+   * [:link:]() **Acompanhamento de Avaliações**: <br>
       :memo: Um sistema para acompanhamento das avaliações e notas dos estudantes em cada disciplina. <br>
       :busts_in_silhouette: Adson Sena, Ana Beatriz Queiroz, Rafael Neres, Jean Carlos.
-   - [:link:]() **Planejamento Didático**: <br>
-   :memo: Sistema para elaboração do planejamento didático anual e quinzenal docente. <br>
-   :busts_in_silhouette: 
-      
+   * [:link:]() **Planejamento Didático**: <br>
+      :memo: Sistema para elaboração do planejamento didático anual e quinzenal docente. <br>
+      :busts_in_silhouette: 
+
 4. **Secretaria Escolar:**
-   - [:link:]() **Emissão e Validação Documental**: <br>
+   * [:link:]() **Emissão e Validação Documental**: <br>
       :memo: Aplicação para emissão e validação de documentos emitidos pela secretaria escolar do colégio. <br>
       :busts_in_silhouette: Bianca Sousa, Debora Dos Anjos, Ellen freitas, Vanessa Nascimento - 3º ano de Redes de Computadores - 2023.
-   - [:link:]() **Recepção Documental**: <br>
+   * [:link:]() **Recepção Documental**: <br>
       :memo: Aplicação para notificação de atestados pela secretaria escolar do colégio. <br>
       :busts_in_silhouette: .
-      
+
 5. **Gestão Escolar:**
-   - [:link:]() **Reserva de Salas**: <br>
+   * [:link:]() **Reserva de Salas**: <br>
       :memo: Digitalização do sistema de reserva de salas do colégio. <br>
       :busts_in_silhouette: 
-   - [:link:]() **Atendimento Externo**: <br>
+   * [:link:]() **Atendimento Externo**: <br>
       :memo: Digitalização do sistema de reserva de salas do colégio. <br>
       :busts_in_silhouette:  
    
