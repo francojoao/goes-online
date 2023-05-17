@@ -53,6 +53,8 @@ Esse processo digitaliza o acesso ao cardápio semanal da cantina, além de perm
 [^1]: Inclui as operações básicas: CREATE, READ, UPDATE, DELETE.
 
 ## Aplicação
+* Mapa conceitual do projeto
+![Mapa conceitual](https://i.imgur.com/Cheo7Po.png)
 
  
 ## Ferramentas utlizadas
