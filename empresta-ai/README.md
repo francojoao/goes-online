@@ -12,7 +12,7 @@ No decorrer das aulas na instituição foi observado uma baixa adesão dos aluno
 Através do sistema o empresta ai, escola irá gerenciar o controle dos livro através de sistema web de forma simples e fácil. No sistema  o funcionário da escola conseguirá saber quais livros estarão disponíveis ou não, através de filtros, autor,gênero, e a quantidade de livros que tem. Também através desse sistema será possível saber quais livros os alunos pegaram, a quantidade emprestada, qual dia o livro foi pego, e qual é o dia da devolução assim evitando a perda de livros da biblioteca e a ocorrência de multas para os usuários.
 
 # 📋 Objetivo do projeto 
-Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
+Informar a disponibilidade e controlar o acesso aos livros que se encontram ofertados na biblioteca da instituição, além de manter um registro dos empréstimos e dos usuários que possuem cadastro no sistema.
 
 # 🖥️ Funções da aplicação:
 
